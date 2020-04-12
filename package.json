@@ -1,0 +1,26 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appnaodo-3/rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appnaodo-3/rest-api/issues"
+  },
+  "homepage": "https://github.com/appnaodo-3/rest-api#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemin": "^1.0.1",
+    "nodemon": "^2.0.3"
+  }
+}
